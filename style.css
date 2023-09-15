@@ -1,0 +1,116 @@
+/* ---------------mağaza-yardım  start -----------------*/
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.first-item .a-item{
+    text-decoration: none;
+    margin-right: 2px;
+    color:#999;
+       
+}
+
+.first-item a:hover{
+    text-shadow: 3px 2px 10px #ac6262;
+}
+/* ------------mağaza-yardım end------------------ */
+
+/* ------------------------nav start------------------- */
+/* title */
+.second{
+    border: 1px solid rgba(150, 66, 66, 0.2);
+    padding-top:0px;
+}
+.second .navbar-brand {
+    color: #e01b84;
+    text-shadow: 5px 5px 5px #e01b84;
+}
+
+/* search */
+.second .search{
+    border: 1px solid rgb(191, 71, 71);
+    border-radius: 10px;   
+}
+.search .form-control{
+    border: none;
+    box-shadow: 10px 10px 10px #e01b84;
+    margin: 10px 0 0 10px; 
+}
+
+/* icon  */
+.icon i{
+    color:rgb(23, 15, 15);
+    font-size: 20px;
+}
+.icon span{
+    font-size:15px;  
+}
+.icon a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+/* ---------------nav end----------- */
+
+.design{
+    background-image: url(image/slide3.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.design h2{
+    font-size: 50px;
+
+}
+.btn-shop{
+    border-radius: 10px;
+    
+  
+}
+.btn-shop a{
+    text-decoration: none;
+    color: #e01b84;
+    font-size: 20px;
+}
+.btn-shop:hover{
+    background-color:darkgrey;
+}
+
+
+/* koleysiyon bölümü */
+.row .best{
+    border: 2px solid rgb(0, 0, 0,0.2);
+    border-radius: 5px;
+}
+.row a{
+    text-decoration: none;
+}
+
+.btn-a{
+   border: 2px solid white;
+   background-color: lightcoral;
+   height:50px;
+}
+
+
+/* footer */
+.footer{
+    background-color: rgb(19, 14, 14,0.5);
+}
+
+.footer a{
+    color: white;
+    text-decoration: none;
+    
+}
+
+/* footer  */
+
+
+
+
+
+
